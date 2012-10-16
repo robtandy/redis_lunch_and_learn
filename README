@@ -1,0 +1,4 @@
+In order to run the two examples in redis_talk.py, first install:
+
+ * Redis (www.redis.io)
+ * the python interface (https://github.com/andymccurdy/redis-py.git)
